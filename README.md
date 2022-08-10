@@ -4,7 +4,7 @@
 <div align="center">
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PastelBlue4&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/list?name=pastelblue0721)](https://velog.io/@eungyeole) 
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/list?name=pastelblue0721)](https://velog.io/@pastelblue0721) 
 
 </div>
 
