@@ -1,7 +1,14 @@
-# Explain To ME! 
+<h1 align="center">  Explain To ME!  </h1>
 
 
-### 주로 사용하는 기술이에요.
+blog 
+
+
+
+
+
+
+<h3 align="center"> 주로 사용하는 기술이에요. </h3>
 
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=Javascript&logoColor=F2F2F2">
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=TypeScript&logoColor=F2F2F2">
@@ -13,6 +20,11 @@
 <img src="https://img.shields.io/badge/Tailwind CSS-06B6D4?style=for-the-badge&logo=Tailwind CSS&logoColor=F2F2F2">
 <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=MongoDB&logoColor=F2F2F2">
 
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=F2F2F2">
+<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=Django&logoColor=F2F2F2">
+
+
+<hr/>
 
 <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=Vercel&logoColor=F2F2F2">
 
@@ -22,8 +34,6 @@
 
 
 ### 이런 기술도 사용해봤어요.
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=F2F2F2">
-<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=Django&logoColor=F2F2F2">
 
 
 ### 이런 기술에 관심이 있어요. 
