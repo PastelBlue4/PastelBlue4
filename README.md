@@ -43,15 +43,6 @@
 
 </div>
 
-<h3 align="center"> BackEnd </h3>
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=F2F2F2">
-<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=Django&logoColor=F2F2F2">
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=MongoDB&logoColor=F2F2F2">
-
-</div>
 
 <h3 align="center"> Tool & Communication </h3>
 
