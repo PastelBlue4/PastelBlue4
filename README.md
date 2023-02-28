@@ -67,12 +67,6 @@
 
 </div>
 
-<hr/>
 
 
-<h3 align="center"> 이런 기술들에 관심이 있어요. </h3>
 
-<div align="center">
-
-  
-  </div>
